@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jay Bansode
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me kumarjay505@gmail.com
 
 <!---
