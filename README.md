@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jay Bansode
-- 🌱 I’m currently MERN developer
+- 👋 Hi, I’m Jay Bansode
+- 🌱 I’m a MERN developer
 <!-- - 📫 How to reach me bansodejay50@gmail.com -->
 
 <!---
