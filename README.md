@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Jay Bansode
 - 🌱 I’m a MERN developer
 - 📫 How to reach me bansodejay50@gmail.com
+  Skills
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
 Jay-Bansode/Jay-Bansode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
