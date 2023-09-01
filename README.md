@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Bansode
 - 🌱 I’m a MERN developer
-<!-- - 📫 How to reach me bansodejay50@gmail.com -->
+- 📫 How to reach me bansodejay50@gmail.com
 
 <!---
 Jay-Bansode/Jay-Bansode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
