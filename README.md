@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Jay Bansode
-- 🌱 I’m a MERN developer
-- 📫 How to reach me bansodejay50@gmail.com
+👋 Hi, I’m Jay Bansode
+🌱 I’m a MERN developer
+📫 How to reach me bansodejay50@gmail.com
   
-  Skills
+Skills
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,)](https://skillicons.dev)
 
- Social
+Social
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaykbansode/">
