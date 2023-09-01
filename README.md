@@ -1,8 +1,6 @@
-👋 Hi, I’m Jay Bansode
-
-🌱 I’m a MERN developer
-
-📫 How to reach me bansodejay50@gmail.com
+👋 Hi, I’m Jay Bansode<br>
+🌱 I’m a MERN developer<br>
+📫 How to reach me bansodejay50@gmail.com<br>
   
 ### Skills
   
