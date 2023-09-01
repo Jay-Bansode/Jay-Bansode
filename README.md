@@ -1,7 +1,7 @@
 👋 Hi, I’m Jay Bansode<br><br>
 🌱 I’m a MERN developer<br><br>
 📫 How to reach me bansodejay50@gmail.com<br><br>
-  
+
 ### Skills
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,)](https://skillicons.dev)
