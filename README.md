@@ -4,7 +4,7 @@
   
   Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,mongodb,)](https://skillicons.dev)
 
 <!---
 Jay-Bansode/Jay-Bansode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
