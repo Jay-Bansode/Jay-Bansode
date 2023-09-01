@@ -8,7 +8,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,)](https://skillicons.dev)
 
-# Social
+### Social
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaykbansode/">
